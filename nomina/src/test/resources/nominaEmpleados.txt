@@ -1,0 +1,3 @@
+Claudia Ximena,Bustamante Gomez,66981999,Tecnología,5000000
+Samuel,Bustamante Grisales,14992444,Gerencia,8000000
+Alexander,Lozada Avila,94444555,Administrativa,5000000
